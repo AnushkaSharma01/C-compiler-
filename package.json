@@ -1,0 +1,16 @@
+{
+  "name": "csharp-compiler-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js application to compile and execute C# code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csharp": "^0.0.1",
+    "express": "^4.17.2"
+  }
+}
